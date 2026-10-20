@@ -10,6 +10,8 @@ You have two days, so this plan squeezes the 9-day plan into **about 3.5 hours t
 4. **Take a 10-minute break between blocks.** Get up, and stay off your phone if you can.
 5. **Sleep both nights.** Memory locks in during sleep. Pulling an all-nighter will cost you more points than the extra hour of studying gains.
 
+6. **Textbook problems:** after each block, do the matching assigned textbook problems in [Textbook Problems - Ch 10 and 11 (Solved)](Textbook%20Problems%20-%20Ch%2010%20and%2011%20(Solved).md). They're grouped by deck and fully solved. Your professor picked these, so they're the closest thing to real exam questions.
+
 ---
 
 ## TODAY (Tue 10/20): Deck 1, Bond Pricing & Yields (the biggest deck)
@@ -22,6 +24,7 @@ You have two days, so this plan squeezes the 9-day plan into **about 3.5 hours t
 | 3 | 50 min | Day 3 | #1, #3, then #2 if time | **The 4-step RCY recipe**; YTC (N = periods to call, FV = call price); YTW = lowest |
 | 4 | 30 min | Day 4 | #1, #2, #5 | Promised vs. expected YTM (only FV changes); new corporate yield = Treasury + spread |
 | ☕ | 10 min | | | |
+| 4b | 30 min | Textbook file, **Part A** | #4, #20, #10, #15, #21–22, #26, #30 |
 | 5 | 20 min | Day 4 "Deck 1 big picture" map | Write every Deck 1 formula from memory, then check | — |
 
 **If you only have time for one thing today:** make sure you can do an RCY problem start to finish (Day 3 #1). It takes the most steps and is the problem most likely to cost you points.
@@ -38,6 +41,7 @@ You have two days, so this plan squeezes the 9-day plan into **about 3.5 hours t
 | ☕ | 15 min | | | |
 | 3 | 45 min | Day 7 | #1, #3, #4, #5 | Forward rate formula; expectations vs. liquidity preference; what an inverted curve means |
 | ☕ | 10 min | | | |
+| 3b | 30 min | Textbook file, **Parts B & C** | Ch10 #38, #39, #41 · Ch11 #4, #8, #9, #14 |
 | 4 | 40 min | Day 9 Mock Exam | **Timed, with no notes** | Everything |
 | 5 | 20 min | Grade it | Redo only the questions you missed, then read the formula sheet once | — |
 | Bonus | if time | Day 8 | Mixed set, or textbook problems from your slides | — |
