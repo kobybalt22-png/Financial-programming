@@ -3,6 +3,8 @@
 **Exam:** Thursday, October 22
 **Study window:** Tuesday 10/13 → Wednesday 10/21 (9 days, about 45–75 min/day)
 
+> ⏱️ **Starting late?** Use the [2-Day Crash Plan](2-Day%20Crash%20Plan%20(Tue%2010-20%20and%20Wed%2010-21).md). It squeezes this plan into today and tomorrow.
+
 The slides are in [`../Slides`](../Slides), in the order you'll study them:
 1. Bond Pricing and Yield (46 slides, the biggest deck, so it gets 4 days)
 2. Interest Rate Risk (25 slides, 2 days)
